@@ -13,7 +13,7 @@ def link
   puts warning
 end
 
-def any_phrase
-  slippy_advice
+def any_phrase(phrase)
+  slippy_advice = "Do a barrel roll!"
   puts slippy_advice
 end
