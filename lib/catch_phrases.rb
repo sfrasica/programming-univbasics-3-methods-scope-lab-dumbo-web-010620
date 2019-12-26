@@ -14,6 +14,6 @@ def link
 end
 
 def any_phrase(phrase)
-  slippy_advice = "Do a Barrel Roll!"
-  puts slippy_advice
+  phrase = "Do a Barrel Roll!"
+  puts phrase
 end
